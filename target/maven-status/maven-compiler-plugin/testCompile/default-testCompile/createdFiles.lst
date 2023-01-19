@@ -1,0 +1,9 @@
+com\inetBanking\testCases\TC_LoginTest_001.class
+com\inetBanking\pageObjects\AddNewCustomerPage.class
+com\inetBanking\testCases\TC_AddNewCustomerTest_003.class
+com\inetBanking\utilities\Listeners.class
+com\inetBanking\testCases\TC_LoginTestDDT_002.class
+com\inetBanking\utilities\XLUtils.class
+com\inetBanking\pageObjects\LoginPage.class
+com\inetBanking\testCases\BaseClass.class
+com\inetBanking\utilities\ExtentReporter.class
